@@ -1,4 +1,4 @@
-module github.com/richarda23/rspace-client-go
+module github.com/rspace-os/rspace-client-go
 
 go 1.14
 
